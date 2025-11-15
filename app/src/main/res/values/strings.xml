@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">APPequplaner</string>
+
+    <string name="op_home">Home</string>
+    <string name="op_favoritos">Favoritos</string>
+    <string name="op_crear">Crear</string>
+    <string name="op_ajustes">Ajustes</string>
+    <string name="op_sesion">Sesion</string>
+    <string name="op_salir">Salir</string>
+
+    <string name="item_clases">Mis clases</string>
+    <string name="item_tareas">Mis tareas</string>
+    <string name="item_examenes">Mis examenes</string>
+
+    <string name="txt_bienvenido_a_tu_organizador">Bienvenido(a) a tu organizador</string>
+
+
+
+
+
+
+</resources>

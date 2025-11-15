@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:id="@+id/icon_group_uno"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/op_home"
+            android:title="@string/op_home"
+            android:icon="@drawable/ic_inicio"/>
+
+
+        <item
+            android:id="@+id/op_favoritos"
+            android:title="@string/op_favoritos"
+            android:icon="@drawable/ic_favorite"/>
+
+
+        <item
+            android:id="@+id/op_crear"
+            android:title="@string/op_crear"
+            android:icon="@drawable/ic_create"/>
+
+
+        <item
+            android:id="@+id/op_ajustes"
+            android:title="@string/op_ajustes"
+            android:icon="@drawable/ic_settings"/>
+
+
+        <item
+            android:id="@+id/op_sesion"
+            android:title="@string/op_sesion"
+            android:icon="@drawable/ic_mi_cuenta"/>
+
+
+    </group>
+
+    <item
+        android:id="@+id/op_salir"
+        android:title="@string/op_salir"
+        android:icon="@drawable/ic_salir"/>
+
+</menu>
